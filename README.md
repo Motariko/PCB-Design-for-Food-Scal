@@ -18,4 +18,4 @@ Thermal and ground management is achieved through a large ground pour, which pro
 
 The main controller for this design is an ESP32 development board mounted via headers for serviceability. The board provides full hardware support for HX711 sensors, I2C liquid crystal displays, and Serial UART communication for debugging purposes. It supports dual-mode power input through either an external voltage source or an integrated battery system.
 
-Developed by Isara Phetsila, Computer Engineering Student at Ramkhamhaeng University.
+Developed by Aitsara Phetsila, Computer Engineering Student at Ramkhamhaeng University.
